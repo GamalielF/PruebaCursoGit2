@@ -1,2 +1,2 @@
 asegurando un commit en remoto
-vamos a forzar el PUSH
+vamos a formazar el push
